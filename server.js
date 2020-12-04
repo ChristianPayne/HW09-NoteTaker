@@ -12,7 +12,7 @@ app.use(express.json());
 
 // Routes
 require("./server/routes/apiRoutes")(app);
-// require("./server/routes/htmlRoutes")(app);
+require("./server/routes/htmlRoutes")(app);
 
 // Start listening
 app.listen(PORT, function() {

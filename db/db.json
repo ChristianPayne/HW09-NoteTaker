@@ -1,7 +1,7 @@
 [
     {
-        "id": 0,
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "New Note 2",
+        "test": "This is a new note. 2",
+        "id": 0
     }
 ]
