@@ -1,5 +1,10 @@
 # Unit 11 Express Homework: Note Taker
 
+## Links
+[GitHub](https://github.com/ChristianPayne/HW09-NoteTaker)
+
+[Deployed Application](https://frozen-peak-61058.herokuapp.com/)
+
 ## User Story
 
 AS A user, I want to be able to write and save notes
